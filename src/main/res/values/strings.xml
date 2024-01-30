@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Neko</string>
+    <string name="title">TSUKKOMI NEKO</string>
+    <string name="choose">Please tap on the cat you want to play with.</string>
+    <string name="no_choice">Please choose tha cat</string>
+    <string name="choose_mike">playing with mike！</string>
+    <string name="choose_siro">playing with siro！</string>
+    <string name="mike">mike</string>
+    <string name="siro">siro</string>
+    <string name="start">START</string>
+    <string name="tsukkomiCount">Counts of tsukkomi: </string>
+    <string name="patCount">Counts of Pat: </string>
+    <string name="no_way">No way!</string>
+    <string name="what">What!?</string>
+    <string name="bash">Bash!</string>
+    <string name="finish">FINISH</string>
+</resources>

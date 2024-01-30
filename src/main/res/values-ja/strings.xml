@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Neko</string>
+    <string name="title">TSUKKOMI NEKO</string>
+    <string name="choose">遊びたい猫をタップしてね</string>
+    <string name="no_choice">どちらかの猫を選んでね</string>
+    <string name="choose_mike">みけねこと遊ぶ！</string>
+    <string name="choose_siro">しろねこと遊ぶ！</string>
+    <string name="mike">みけねこ</string>
+    <string name="siro">しろねこ</string>
+    <string name="start">始める</string>
+    <string name="tsukkomiCount">ツッコミ回数: </string>
+    <string name="patCount">愛でた回数: </string>
+    <string name="no_way">なんでやねん！</string>
+    <string name="what">なんでやねん！</string>
+    <string name="bash">バシッ！</string>
+    <string name="finish">終わる</string>
+</resources>
