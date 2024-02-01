@@ -12,7 +12,7 @@
 
 ## 使用技術
 * 言語: Java
-* 開発環境: Android Studio
+* 開発環境: Android Studio Giraffe(API 24)
 
 ## 参考資料
 * 猫のイラスト：[Slit Animation.com](https://slitanimation.com/2018/10/%E3%81%AB%E3%82%83%E3%82%93%E3%81%93%E3%81%AE%E9%81%94%E4%BA%BA/)
